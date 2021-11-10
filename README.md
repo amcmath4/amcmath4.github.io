@@ -11,4 +11,5 @@ Here are the team members that formed our group:
   - Samuel Olubummo
   - Alex McMath
 ## Project Files
-[Security Tool Research](https://github.com/amcmath4/amcmath4.github.io/blob/main/Security%20Tool%20Suggestions.docx)
+- [GitHub Main Page](https://github.com/amcmath4/amcmath4.github.io)
+- [Security Tool Research](https://github.com/amcmath4/amcmath4.github.io/blob/main/Security%20Tool%20Suggestions.docx)
