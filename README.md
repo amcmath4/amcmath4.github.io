@@ -12,4 +12,11 @@ Here are the team members that formed our group:
   - Alex McMath
 ## Project Files
 - [GitHub Main Page](https://github.com/amcmath4/amcmath4.github.io)
-- [Security Tool Research](https://github.com/amcmath4/amcmath4.github.io/blob/main/Security%20Tool%20Suggestions.docx)
+- [Project Plan](https://github.com/amcmath4/amcmath4.github.io/blob/main/Project%20Plan%20-%20Security%20Solution%20for%20a%20Small%20Business.docx)
+- [Gantt Chart](https://github.com/amcmath4/amcmath4.github.io/blob/main/Project7-GanttChart_Final.xlsx)
+- [Milestone 1 PowerPoint](https://github.com/amcmath4/amcmath4.github.io/blob/main/Project7-Milestone1.pptx)
+- [Project Risk Analysis](https://github.com/amcmath4/amcmath4.github.io/blob/main/Project7-Milestone2-Risk_Analysis.docx)
+- [Project Security Suggestions](https://github.com/amcmath4/amcmath4.github.io/blob/main/Project7-Milestone2-Security_Suggestions.docx)
+- [Milestone 2 PowerPoint](https://github.com/amcmath4/amcmath4.github.io/blob/main/Project7-Milestone2.pptx)
+- [Vulnerability Assessment](https://github.com/amcmath4/amcmath4.github.io/blob/main/Project7-VulnerabilityAssessment.docx)
+- [Milestone 3 PowerPoint](https://github.com/amcmath4/amcmath4.github.io/blob/main/Project7-Milestone3.pptx)
