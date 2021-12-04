@@ -1,5 +1,5 @@
 # Welcome to our Fall 2021 IT Capstone Project!
-## What is this project?
+## What was this project?
 The IT Capstone Project is a class assigned to senior IT students at Kennesaw State University that is designed to apply their skills to real-world applications. In the case of our project we were assigned to build a small business web server, secure it with open-source software, and to attempt to infiltrate the servers of other teams assigned to the project.
 \
 \
@@ -11,7 +11,8 @@ Here are the team members that formed our group:
   - Daniel McDuffie
   - Ryan Smith
   - Samuel Olubummo
-  - Alex McMath
+  - Alexander McMath
+
 ## What was done in the project?
 ### Milestone 1
 Before we began building our server we were first tasked to formulate a project plan outlining the group member roles and final deliverables along with a Gantt Chart detailing the finalization dates and assignments of various project tasks. With those plans set and approved we moved to creating the web server itself. For this we constructed a web server on Red Hat Enterprise Linux, installed OpenCart, designed a website layout, built it with WordPress, and finally launched it with a provided IP address. All the progress up to this point was presented to the project sponsors in our Milestone 1 Presentation.
