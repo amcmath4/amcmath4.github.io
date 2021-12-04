@@ -4,7 +4,7 @@ The IT Capstone Project is a class assigned to senior IT students at Kennesaw St
 \
 \
 Our class was instructed by Dr. Ying Xie, and our project sponsor was Dr. Lei Li.
-## Who was involved in the project?
+## Who was involved in this project?
 Here are the team members that formed our group:
   - Eric Whang
   - Mark Schuler
@@ -13,7 +13,7 @@ Here are the team members that formed our group:
   - Samuel Olubummo
   - Alexander McMath
 
-## What was done in the project?
+## What was done in this project?
 ### Milestone 1
 Before we began building our server we were first tasked to formulate a project plan outlining the group member roles and final deliverables along with a Gantt Chart detailing the finalization dates and assignments of various project tasks. With those plans set and approved we moved to creating the web server itself. For this we constructed a web server on Red Hat Enterprise Linux, installed OpenCart, designed a website layout, built it with WordPress, and finally launched it with a provided IP address. All the progress up to this point was presented to the project sponsors in our Milestone 1 Presentation.
 ### Milestone 2
